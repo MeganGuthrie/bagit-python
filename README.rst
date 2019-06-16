@@ -273,3 +273,7 @@ under the same terms as those that govern this project's distribution.
    :target: https://coveralls.io/github/LibraryOfCongress/bagit-python?branch=master
 .. |cc0| image:: http://i.creativecommons.org/p/zero/1.0/88x31.png
    :target: http://creativecommons.org/publicdomain/zero/1.0/
+
+Fork edit
+----------
+Text added to trial editing forked code. 
